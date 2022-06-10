@@ -1,2 +1,2 @@
-# Ping
- Example nekOS app
+# NekOS Terminal
+The built in Terminal App for NekOS
