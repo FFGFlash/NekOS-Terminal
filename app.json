@@ -1,5 +1,6 @@
 {
   "name": "Terminal",
+  "description": "The built in Terminal App for NekOS",
   "main": "main.lua",
   "icon": "icon.nfp"
 }
